@@ -1,0 +1,9 @@
+[submodule "FedNAMs"]
+	path = FedNAMs
+	url = https://github.com/Sreebhargavibalijaa/FedNAMS.git
+[submodule "FedInt"]
+	path = FedInt
+	url = https://github.com/Sreebhargavibalijaa/FedInt.git
+[submodule "FedIntfiles"]
+	path = FedIntfiles
+	url = https://github.com/Sreebhargavibalijaa/FedIntfiles.git
